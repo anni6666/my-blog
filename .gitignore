@@ -1,0 +1,13 @@
+# Ignore image files
+# .png, .jpg, .jpeg, .gif, .svg, .ico
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+#Ignore node model files
+# .node_modules
+node_modules
