@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-02-13 23:00:28
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 13:18:18
--->
-
 <!--  Header.vue  -->
 
 <template>

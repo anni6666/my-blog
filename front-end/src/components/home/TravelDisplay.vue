@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-02-14 11:50:49
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 13:18:27
--->
-
 <!--  TravelDisplay.vue  -->
 
 <template>

@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-02-14 12:05:15
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 12:19:11
--->
-
 <!--  EnvironmentalDisplay.vue  -->
   
 <template>

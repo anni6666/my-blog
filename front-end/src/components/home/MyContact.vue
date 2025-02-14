@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-02-14 12:21:17
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 13:19:07
--->
-
 <!--  MyContact.vue  -->
 <template>
   <div class="footer">

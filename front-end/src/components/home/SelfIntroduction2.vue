@@ -1,9 +1,4 @@
-<!--
- * @Date: 2025-02-13 23:07:44
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 13:17:54
--->
- <!--  SelfIntroduction2.vue  -->
+<!--  SelfIntroduction2.vue  -->
 <template>
   <div class="intro-container">
     <div class="text-section">

@@ -1,9 +1,3 @@
-<!--
- * @Date: 2025-02-14 10:52:42
- * @LastEditors: Aregene
- * @LastEditTime: 2025-02-14 13:17:26
--->
-
 <!--  SportDisplay.vue  ---->
 
 <template>
